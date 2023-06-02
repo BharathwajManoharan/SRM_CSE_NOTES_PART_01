@@ -22,12 +22,6 @@ Welcome to the First Year Notes Repository! This repository contains notes and q
 
 Each subject folder contains detailed lecture notes, study materials, & question banks to help you in your studies. Feel free to explore the folders and download the resources you need.
 
-## Need Assistance with Downloading Files?
-
-If you encounter any difficulties while downloading files from this repository, we have provided an alternative download link for your convenience. You can access the notes and resources from the following location: [Download Notes](https://mega.nz/folder/VDRgkLgQ#oo91we5H9CQtQwtsltjCQg).
-
-Please note that the provided link will direct you to an external file hosting service, where you can easily download the files you need. If you still have any issues or questions, feel free to reach out to us via the provided contact information.
-
 ## Contributing
 
 This repository is meant to be a collaborative effort, and your contributions are highly appreciated. If you have additional notes or question banks for any of the subjects, you can contribute to this repository by following these steps:
@@ -41,3 +35,9 @@ This repository is meant to be a collaborative effort, and your contributions ar
 Please ensure that your contributions align with the repository's purpose and adhere to the guidelines mentioned in the [CONTRIBUTING.md](./CONTRIBUTING.md) file.
 
 Let's work together to make this repository a valuable resource for all the first-year students!
+
+## Need Assistance with Downloading Files?
+
+If you encounter any difficulties while downloading files from this repository, I have provided an alternative download link for your convenience. You can access the notes and resources from the following location: [Download From Here](https://mega.nz/folder/VDRgkLgQ#oo91we5H9CQtQwtsltjCQg).
+
+Please note that the provided link will direct you to an external file hosting service, where you can easily download the files you need. If you still have any issues or questions, feel free to reach out to us via the provided contact information.
