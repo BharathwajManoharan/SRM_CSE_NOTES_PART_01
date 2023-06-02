@@ -36,7 +36,3 @@ Please ensure that your contributions align with the repository's purpose and ad
 
 Let's work together to make this repository a valuable resource for all the first-year students!
 
-## License
-
-This repository is licensed under the [MIT License](./LICENSE). Please review the license file for more information.
-
