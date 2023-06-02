@@ -20,7 +20,7 @@ Welcome to the First Year Notes Repository! This repository contains notes and q
 - [Physical and Mental Health using Yoga (18GNM101L)](./18GNM101L)
 - [Value Added Course (VAC)](./VAC-Value%20Added%20Course)
 
-Each subject folder contains detailed lecture notes, study materials, and question banks to help you in your studies. Feel free to explore the folders and download the resources you need.
+Each subject folder contains detailed lecture notes, study materials, & question banks to help you in your studies. Feel free to explore the folders and download the resources you need.
 
 ## Contributing
 
