@@ -13,12 +13,11 @@ Welcome to the First Year Notes Repository! This repository contains notes and q
 - [English (18LEH101J)](./18LEH101J)
 - [Engineering Graphics (18MES101L)](./18MES101L)
 - [Foreign Language (18LEH10XJ)](./18LEH10XJ)
-- [General Aptitude (18PDH101T)](./18PDH101T)
-- [Physical and Mental Health using Yoga (18GNM101L)](./18GNM101L)
 - [Physics: Semiconductor Physics (18PYB103J)](./18PYB103J)
 - [Professional Skills and Practices (18PDM101L)](./18PDM101L)
 - [Programming for Problem Solving (18CSS101J)](./18CSS101J)
-- [Value Added Course (VAC)](./VAC-Value%20Added%20Course)
+- [Value Education (18LEM102J)](./18LEM102J)
+
 
 Each subject folder contains detailed lecture notes, study materials, & question banks to help you in your studies. Feel free to explore the folders and download the resources you need.
 
