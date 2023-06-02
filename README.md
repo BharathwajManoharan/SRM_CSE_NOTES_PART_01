@@ -16,6 +16,8 @@ Welcome to the First Year Notes Repository! This repository contains notes and q
 - [Physics: Semiconductor Physics (18PYB103J)](./18PYB103J)
 - [Professional Skills and Practices (18PDM101L)](./18PDM101L)
 - [Programming for Problem Solving (18CSS101J)](./18CSS101J)
+- [Value Education (18LEM102J)](./18LEM102J)
+
 
 Each subject folder contains detailed lecture notes, study materials, & question banks to help you in your studies. Feel free to explore the folders and download the resources you need.
 
