@@ -1,35 +1,41 @@
 # Code of Conduct
 
-As contributors and maintainers of this repository, we are committed to fostering an inclusive, respectful, and harassment-free environment for everyone. We expect all contributors to adhere to the following code of conduct:
-
-## Our Pledge
-
-- Be respectful and considerate towards others, regardless of their background, experience, or opinions.
-- Value and welcome diverse perspectives and ideas.
-- Exercise empathy and kindness in all interactions.
+We, as contributors and maintainers, are committed to creating a friendly and inclusive environment for everyone involved in this repository. We expect all participants to adhere to the following Code of Conduct. By participating, you are agreeing to the terms outlined below.
 
 ## Expected Behavior
 
-- Be polite and professional in your communication.
-- Use inclusive language and avoid any form of discriminatory or offensive remarks.
-- Be open to constructive feedback and differing viewpoints.
-- Respect the boundaries and privacy of others.
-- Collaborate and work together in a positive and supportive manner.
+- Be respectful and considerate towards others.
+- Use welcoming and inclusive language.
+- Be open to constructive feedback and ideas.
+- Be collaborative and supportive of fellow contributors.
+- Respect the diversity of opinions, experiences, and backgrounds of others.
+- Exercise empathy and understanding towards others' perspectives.
 
 ## Unacceptable Behavior
 
-The following behaviors are considered unacceptable within this community:
+The following behaviors are considered unacceptable and will not be tolerated:
 
-- Harassment, discrimination, or intimidation in any form.
-- Offensive, derogatory, or insulting comments.
-- Trolling, flaming, or personal attacks.
-- Publishing others' private information without permission.
-- Any other behavior that is deemed inappropriate or disrespectful.
+- Harassment, discrimination, or any form of offensive behavior.
+- Insulting, demeaning, or derogatory comments or personal attacks.
+- Intimidation, threats, or any form of unwelcome conduct.
+- Spamming, trolling, or disruptive behavior.
+- Any other behavior that creates an uncomfortable or hostile environment.
 
 ## Reporting and Enforcement
 
-If you witness or experience any unacceptable behavior, please promptly report it to the project maintainers. All reports will be reviewed and investigated thoroughly. The project maintainers are responsible for determining the appropriate course of action, which may include warnings, temporary or permanent bans, or other actions deemed necessary.
+If you encounter any instances of unacceptable behavior or have concerns regarding violations of this Code of Conduct, please report it immediately by contacting the project maintainers at [email address or contact information]. All reports will be reviewed and investigated promptly and will remain confidential.
+
+Anyone found to engage in behavior that violates this Code of Conduct may face consequences, including temporary or permanent bans from participation in this repository.
+
+## Scope
+
+This Code of Conduct applies to all spaces related to this repository, including discussions, issues, pull requests, and any other form of communication or collaboration.
 
 ## Attribution
 
-This Code of Conduct is adapted from the Contributor Covenant (version 2.0
+This Code of Conduct is adapted from the Contributor Covenant, version 2.0, available at https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
+
+## Acknowledgment
+
+We appreciate everyone who contributes to making this repository a welcoming and inclusive environment for all. Thank you for your cooperation and support in creating a positive community!
+
