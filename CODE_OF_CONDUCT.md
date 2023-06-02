@@ -1,6 +1,6 @@
 # Code of Conduct
 
-We, as contributors and maintainers, are committed to creating a friendly and inclusive environment for everyone involved in this repository. We expect all participants to adhere to the following Code of Conduct. By participating, you are agreeing to the terms outlined below.
+We, as contributors and maintainers, are committed to creating a friendly and inclusive environment for everyone involved in this repository. I expect all participants to adhere to the following Code of Conduct. By participating, you are agreeing to the terms outlined below.
 
 ## Expected Behavior
 
@@ -37,5 +37,5 @@ This Code of Conduct is adapted from the Contributor Covenant, version 2.0, avai
 
 ## Acknowledgment
 
-We appreciate everyone who contributes to making this repository a welcoming and inclusive environment for all. Thank you for your cooperation and support in creating a positive community!
+I appreciate everyone who contributes to making this repository a welcoming and inclusive environment for all. Thank you for your cooperation and support in creating a positive community!
 
