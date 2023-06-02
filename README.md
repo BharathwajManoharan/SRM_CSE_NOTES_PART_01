@@ -11,6 +11,7 @@ Welcome to the First Year Notes Repository! This repository contains notes and q
 - [Civil and Mechanical Engineering Workshop (18MES103L)](./18MES103L)
 - [Constitution of India (18LEM101T)](./18LEM101T)
 - [English (18LEH101J)](./18LEH101J)
+- [Engineering Graphics (18MES101L)](./18MES101L)
 - [Foreign Language (18LEH10XJ)](./18LEH10XJ)
 - [General Aptitude (18PDH101T)](./18PDH101T)
 - [Physical and Mental Health using Yoga (18GNM101L)](./18GNM101L)
